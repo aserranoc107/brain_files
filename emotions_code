@@ -78,7 +78,7 @@ def find_closest_sentiment(text, sentiment_values):
 ############################# 5 #########################################
 
 if __name__ == "__main__":
-    url = "https://raw.githubusercontent.com/aserranoc/texts/main/first_text.txt"
+    url = "https://raw.githubusercontent.com/aserranoc107/brain_files/refs/heads/main/first_text.txt"
     
     try:
         sentiment_values, custom_phrases = fetch_data(url)
