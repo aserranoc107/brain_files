@@ -2482,3 +2482,6 @@ custom:good enough   It looks like you suffer from impostor syndrome  https://ww
 custom:incapable   It looks like you suffer from impostor syndrome  https://www.menti.com/alrv76y5dch4
 custom:not sufficient   It looks like you suffer from impostor syndrome  https://www.menti.com/alrv76y5dch4
 custom:i am not   It looks like you suffer from impostor syndrome  https://www.menti.com/alrv76y5dch4
+custom:i don't feel sufficient   It looks like you suffer from impostor syndrome  https://www.menti.com/alrv76y5dch4
+custom:i can't do   It looks like you suffer from impostor syndrome  https://www.menti.com/alrv76y5dch4
+custom:i do not feel sufficient   It looks like you suffer from impostor syndrome  https://www.menti.com/alrv76y5dch4
